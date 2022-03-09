@@ -340,3 +340,4 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,webstorm+all,angular,intellij+all,node
 
 package-lock.json
+.idea
